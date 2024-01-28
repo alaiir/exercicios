@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.conteiner {
+    width: 1366px;
+    margin: 0 auto ;
+}
+
+h2 {
+    color: blue;
+}
+
+header {
+    background-color: blue;
+    color: aliceblue;
+    padding: 16px;
+}
+
+
+input, button {
+    display: block;
+    padding: 8px;
+    margin-bottom: 16px;
+    width: 100%;
+    resize: none;
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(71, 71, 238);
+}
+
